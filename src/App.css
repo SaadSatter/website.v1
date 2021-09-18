@@ -6,8 +6,9 @@
 }
 
 .home,
-.services,
-.products,
+.gameplay,
+.cardnfts,
+.sign-up,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -16,7 +17,7 @@
   font-size: 3rem;
 }
 
-.services {
+.gameplay {
   background-image: url('./images/img-2.jpg');
   background-position: center;
   background-size: cover;
@@ -25,12 +26,12 @@
   font-size: 100px;
 }
 
-.products {
+.cardnfts {
   background-image: url('./images/img-1.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #000;
   font-size: 100px;
 }
 
@@ -39,6 +40,6 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
+  color: #000;
   font-size: 100px;
 }

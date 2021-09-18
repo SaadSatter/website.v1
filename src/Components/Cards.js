@@ -20,7 +20,7 @@ function Cards() {
                     cardNum = ''
                     text="Reach the EndersGate and Save Your Kingdom"
                     label='Adventure'
-                    path='/GamePlay'
+                    path=''
                     />
                     <div className = 'about__container'>
                         <h2>
@@ -53,7 +53,7 @@ function Cards() {
                     <CardItem
                     cardNum = '2'
                     src={picture2}
-                    path='/GamePlay'
+                    path=''
                     label='Concept Art'
                     />
                 </ul>

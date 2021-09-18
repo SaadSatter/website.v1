@@ -17,10 +17,11 @@
   }
   h2 {
     position: absolute;
+    display: flex;
     text-align: center;
     font-size: 1rem;
     margin: 150px 300px 50px 300px;
-    transform: translate(-100px);
+    transform: translate(-140px);
     overflow-wrap: normal;
     color: #fff;
   }
