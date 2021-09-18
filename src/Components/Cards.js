@@ -2,8 +2,8 @@ import React from 'react'
 import {Link} from 'react-router-dom';
 import CardItem from './CardItem';
 import './Cards.css';
-import picture from '../images/img-9.png';
-import picture2 from '../images/img-4.jpg';
+import picture from '../images/ConceptCard1.PNG';
+import picture2 from '../images/ConceptCard2.PNG';
 
 function Cards() {
     return (
@@ -19,7 +19,7 @@ function Cards() {
                     src={picture}
                     cardNum = ''
                     text="Reach the EndersGate and Save Your Kingdom"
-                    label='Adventure'
+                    label='Concept Art'
                     path=''
                     />
                     <div className = 'about__container'>
