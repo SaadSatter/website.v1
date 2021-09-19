@@ -2,7 +2,7 @@ import React from 'react'
 import {Link} from 'react-router-dom';
 import CardItem from './CardItem';
 import './Cards.css';
-import picture from '../images/ConceptCard1.PNG';
+import picture from '../images/BackCard.JPG';
 import picture2 from '../images/ConceptCard2.PNG';
 
 function Cards() {
